@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "name": "Fiacro Reyes Lopez",
+  "email": "freyeslopez@microsoft.com",
+  "phone": "425-727-0399",
+  "city": "Seattle",
+  "state": "Washington",
+  "country": "United States",
+  "organization": "Microsoft",
+  "jobProfile": "Software Engineer",
+  "additionalInfo": "front end engineer"
+}

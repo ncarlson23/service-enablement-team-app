@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Angus Lin",
+  "email": "anguslin@microsoft.com",
+  "phone": "425-704-6893",
+  "city": "Seattle",
+  "state": "Washington",
+  "country": "United States",
+  "organization": "Microsoft",
+  "jobProfile": "Software Engineer II",
+  "additionalInfo": "full stack developer with a focus on front end"
+}

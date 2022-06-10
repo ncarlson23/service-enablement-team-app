@@ -1,0 +1,63 @@
+[
+	{
+		"id": 1,
+		"name": "Nina Carlson",
+		"email": "t-ncarlson@microsoft.com",
+		"phone": "914-260-5315"
+	},
+	{
+		"id": 2,
+		"name": "John Dellenbaugh",
+		"email": "johndell@microsoft.com",
+		"phone": "425-301-1754"
+	},
+	{
+		"id": 3,
+		"name": "Joan Nekoye",
+		"email": "t-joannekoye@microsoft.com",
+		"phone": "401-290-7511"
+	},
+
+	{
+		"id": 4,
+		"name": "Guy Lingani",
+		"email": "t-guylingani@microsoft.com",
+		"phone": "240-614-8481"
+
+	},
+
+	{
+		"id": 5,
+		"name": "Angus Lin",
+		"email": "anguslin@microsoft.com",
+		"phone": "425-704-6893"
+	},
+
+	{
+		"id": 6,
+		"name": "Cecily Savage",
+		"email": "cecilysavage@microsoft.com",
+		"phone": "425-421-2729"
+	},
+
+	{
+		"id": 7,
+		"name": "Kevin Kuriachan",
+		"email": "kkuriachan@microsoft.com",
+		"phone": "425-538-7127"
+	},
+
+	{
+		"id": 8,
+		"name": "Fiacro Reyes Lopez",
+		"email": "freyeslopez@microsoft.com",
+		"phone": "425-727-0399"
+	},
+
+	{
+		"id": 9,
+		"name": "Shane Nelson",
+		"email": "shane@microsoft.com",
+		"phone": "425-766-0344"
+	}
+]

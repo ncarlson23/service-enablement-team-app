@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Nina Carlson",
+	"email": "t-ncarlson@microsoft.com",
+	"phone": "914-260-5315",
+	"city": "Bellevue",
+	"state": "Washington",
+	"country": "United States",
+	"organization": "Microsoft",
+	"jobProfile": "Explorer Intern - Service Enablement Team",
+	"additionalInfo": "Focus on full stack development"
+}
